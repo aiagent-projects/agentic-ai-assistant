@@ -1,0 +1,12 @@
+langchain
+langgraph
+fastapi
+pydantic
+httpx
+streamlit
+mcp<2
+sentence-transformers
+chromadb
+pytest
+python-dotenv
+langchain-openai
